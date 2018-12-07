@@ -1,0 +1,79 @@
+body{
+	font-family:"Helvetica";
+}
+.nav.nav-pills.float-right.topBar {
+  font-family:"Helvetica";
+}
+
+.borderNav{
+	border-right: 1px solid #706f6f;
+}
+.screenFiller {
+    width: 100%;
+    border-bottom: 1px solid black;
+}
+.jumptronIconsSize{
+	height: 70px;
+}
+.jumptronParf{
+	color: white;
+	font-size: 17px;
+}
+.pl-6,px-6{
+	padding-left: 9rem !important;
+}
+.pr-6,px-6{
+	padding-right: 9rem !important;
+}
+.mr-6,mx-6{
+	margin-right: 5rem !important;
+}
+.infoIconsCont{
+	color: #003F6A;
+	font-size: 50px;
+}
+.infoContent{
+	color: #003F6A;
+	font-size: 23px;
+}
+.infoContCap{
+	color: black;
+	font-size: 17px;
+	//font-style: italic;
+}
+.blalalalla:hover{
+	text-decoration: none;
+	color: white;
+	background-color: #2a398c;
+}
+.blalalalla p{
+	display: none;
+}
+.blalalalla:hover h4, .blalalalla:hover i , .blalalalla:hover img{
+	display: none;
+}
+.blalalalla:hover p{
+	display: block;
+	color: white;
+}
+.noPadnoMarginfoCont{
+	margin: 0px 0px;
+	border-top: 2px solid #CFD8DF;
+}
+.noPadnoMarginfoContend{
+	padding: 0px 0px;
+	margin: 0px 0px 70px;
+	border-top: 2px solid #CFD8DF;
+	
+}
+.govDirnum{
+	color: #2a398c;
+	font-family: 'Helvetica 85 Heavy';
+	font-size: 110px; 
+	margin: 0px; 
+	height: 150px;
+}
+.govDirCont{
+	color: #2a398c;
+	font-size: 20px;
+}
